@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="module_kittenrush-sweetedition" default="compile.module.kittenrush-sweetedition">
+  <dirname property="module.kittenrush-sweetedition.basedir" file="${ant.file.module_kittenrush-sweetedition}"/>
+  
+  <property name="module.jdk.home.kittenrush-sweetedition" value="${project.jdk.home}"/>
+  <property name="module.jdk.bin.kittenrush-sweetedition" value="${project.jdk.bin}"/>
+  <property name="module.jdk.classpath.kittenrush-sweetedition" value="${project.jdk.classpath}"/>
+  
+  <property name="compiler.args.kittenrush-sweetedition" value="-encoding UTF-8 -source 1.6 -target 1.6 ${compiler.args}"/>
+  
+  <property name="kittenrush-sweetedition.output.dir" value="${module.kittenrush-sweetedition.basedir}/build/classes/production/kittenrush-sweetedition"/>
+  <property name="kittenrush-sweetedition.testoutput.dir" value="${module.kittenrush-sweetedition.basedir}/build/classes/test/kittenrush-sweetedition"/>
+  
+  <path id="kittenrush-sweetedition.module.bootclasspath">
+    <!-- Paths to be included in compilation bootclasspath -->
+  </path>
+  
+  <path id="kittenrush-sweetedition.module.production.classpath">
+    <path refid="${module.jdk.classpath.kittenrush-sweetedition}"/>
+  </path>
+  
+  <path id="kittenrush-sweetedition.runtime.production.module.classpath">
+    <pathelement location="${kittenrush-sweetedition.output.dir}"/>
+  </path>
+  
+  <path id="kittenrush-sweetedition.module.classpath">
+    <path refid="${module.jdk.classpath.kittenrush-sweetedition}"/>
+    <pathelement location="${kittenrush-sweetedition.output.dir}"/>
+  </path>
+  
+  <path id="kittenrush-sweetedition.runtime.module.classpath">
+    <pathelement location="${kittenrush-sweetedition.testoutput.dir}"/>
+    <pathelement location="${kittenrush-sweetedition.output.dir}"/>
+  </path>
+  
+  
+  <patternset id="excluded.from.module.kittenrush-sweetedition">
+    <patternset refid="ignored.files"/>
+  </patternset>
+  
+  <patternset id="excluded.from.compilation.kittenrush-sweetedition">
+    <patternset refid="excluded.from.module.kittenrush-sweetedition"/>
+  </patternset>
+  
+  
+  <target name="compile.module.kittenrush-sweetedition" depends="compile.module.kittenrush-sweetedition.production,compile.module.kittenrush-sweetedition.tests" description="Compile module kittenrush-sweetedition"/>
+  
+  <target name="compile.module.kittenrush-sweetedition.production" depends="register.custom.compilers" description="Compile module kittenrush-sweetedition; production classes"/>
+  
+  <target name="compile.module.kittenrush-sweetedition.tests" depends="register.custom.compilers,compile.module.kittenrush-sweetedition.production" description="compile module kittenrush-sweetedition; test classes" unless="skip.tests"/>
+  
+  <target name="clean.module.kittenrush-sweetedition" description="cleanup module">
+    <delete dir="${kittenrush-sweetedition.output.dir}"/>
+    <delete dir="${kittenrush-sweetedition.testoutput.dir}"/>
+  </target>
+</project>

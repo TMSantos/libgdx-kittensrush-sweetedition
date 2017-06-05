@@ -1,0 +1,89 @@
+
+optionsscreen.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+soundOffClick
+  rotate: false
+  xy: 1, 781
+  size: 856, 193
+  orig: 856, 193
+  offset: 0, 0
+  index: -1
+soundOnClick
+  rotate: false
+  xy: 1, 586
+  size: 856, 193
+  orig: 856, 193
+  offset: 0, 0
+  index: -1
+help
+  rotate: false
+  xy: 859, 781
+  size: 855, 193
+  orig: 855, 193
+  offset: 0, 0
+  index: -1
+helpClick
+  rotate: false
+  xy: 1, 391
+  size: 855, 193
+  orig: 855, 193
+  offset: 0, 0
+  index: -1
+musicOff
+  rotate: false
+  xy: 859, 586
+  size: 855, 193
+  orig: 855, 193
+  offset: 0, 0
+  index: -1
+musicOn
+  rotate: false
+  xy: 1, 196
+  size: 855, 193
+  orig: 855, 193
+  offset: 0, 0
+  index: -1
+soundOff
+  rotate: false
+  xy: 858, 391
+  size: 855, 193
+  orig: 855, 193
+  offset: 0, 0
+  index: -1
+soundOn
+  rotate: false
+  xy: 1, 1
+  size: 855, 193
+  orig: 855, 193
+  offset: 0, 0
+  index: -1
+musicOffClick
+  rotate: false
+  xy: 858, 197
+  size: 855, 192
+  orig: 855, 192
+  offset: 0, 0
+  index: -1
+musicOnClick
+  rotate: false
+  xy: 858, 3
+  size: 855, 192
+  orig: 855, 192
+  offset: 0, 0
+  index: -1
+back
+  rotate: false
+  xy: 1716, 689
+  size: 290, 285
+  orig: 290, 285
+  offset: 0, 0
+  index: -1
+backClick
+  rotate: false
+  xy: 1716, 402
+  size: 290, 285
+  orig: 290, 285
+  offset: 0, 0
+  index: -1

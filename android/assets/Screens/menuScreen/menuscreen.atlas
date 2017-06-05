@@ -1,0 +1,75 @@
+
+menuscreen.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+credits
+  rotate: false
+  xy: 1, 669
+  size: 780, 177
+  orig: 780, 177
+  offset: 0, 0
+  index: -1
+options
+  rotate: false
+  xy: 1, 490
+  size: 780, 177
+  orig: 780, 177
+  offset: 0, 0
+  index: -1
+creditsClick
+  rotate: false
+  xy: 783, 669
+  size: 779, 177
+  orig: 779, 177
+  offset: 0, 0
+  index: -1
+optionsClick
+  rotate: false
+  xy: 1, 312
+  size: 780, 176
+  orig: 780, 176
+  offset: 0, 0
+  index: -1
+play
+  rotate: false
+  xy: 1, 134
+  size: 780, 176
+  orig: 780, 176
+  offset: 0, 0
+  index: -1
+playClick
+  rotate: false
+  xy: 783, 491
+  size: 779, 176
+  orig: 779, 176
+  offset: 0, 0
+  index: -1
+exitClick
+  rotate: false
+  xy: 1, 1
+  size: 543, 131
+  orig: 543, 131
+  offset: 0, 0
+  index: -1
+exit
+  rotate: false
+  xy: 783, 359
+  size: 543, 130
+  orig: 543, 130
+  offset: 0, 0
+  index: -1
+star
+  rotate: false
+  xy: 1564, 584
+  size: 258, 262
+  orig: 258, 262
+  offset: 0, 0
+  index: -1
+starClick
+  rotate: false
+  xy: 783, 95
+  size: 257, 262
+  orig: 257, 262
+  offset: 0, 0
+  index: -1

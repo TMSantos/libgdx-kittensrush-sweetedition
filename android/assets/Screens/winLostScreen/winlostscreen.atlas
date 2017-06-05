@@ -1,0 +1,68 @@
+
+winlostscreen.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+MenuClick
+  rotate: false
+  xy: 1, 797
+  size: 778, 177
+  orig: 778, 177
+  offset: 0, 0
+  index: -1
+NextLvl
+  rotate: false
+  xy: 1, 619
+  size: 778, 176
+  orig: 778, 176
+  offset: 0, 0
+  index: -1
+NextLvlClick
+  rotate: false
+  xy: 781, 798
+  size: 778, 176
+  orig: 778, 176
+  offset: 0, 0
+  index: -1
+Replay
+  rotate: false
+  xy: 1, 441
+  size: 777, 176
+  orig: 777, 176
+  offset: 0, 0
+  index: -1
+ReplayClick
+  rotate: false
+  xy: 781, 620
+  size: 777, 176
+  orig: 777, 176
+  offset: 0, 0
+  index: -1
+Menu
+  rotate: false
+  xy: 1, 264
+  size: 777, 175
+  orig: 777, 175
+  offset: 0, 0
+  index: -1
+Lost
+  rotate: false
+  xy: 1, 1
+  size: 536, 261
+  orig: 536, 261
+  offset: 0, 0
+  index: -1
+Win
+  rotate: false
+  xy: 781, 335
+  size: 501, 283
+  orig: 501, 283
+  offset: 0, 0
+  index: -1
+Star
+  rotate: false
+  xy: 539, 27
+  size: 237, 235
+  orig: 237, 235
+  offset: 0, 0
+  index: -1

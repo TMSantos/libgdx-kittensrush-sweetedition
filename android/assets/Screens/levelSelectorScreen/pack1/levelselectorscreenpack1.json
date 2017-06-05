@@ -1,0 +1,20 @@
+{
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+	Options: { down: optionsClick, up: options },
+	Menu: { down: menuClick, up: menu },
+	Left: { down: leftArrowClick, up: leftArrow },
+	Right: { down: rigthArrowClick, up: rigthArrow },
+	Yellow: {down: yellowLevel, up: yellowLevel },
+	Yellow1: {down: yellowLevel1, up: yellowLevel1 },
+	Yellow2: {down: yellowLevel2, up: yellowLevel2 },
+	Yellow3: {down: yellowLevel3, up: yellowLevel3 },
+	Red: {down: redLevel, up: redLevel },
+    Red1: {down: redLevel1, up: redLevel1 },
+    Red2: {down: redLevel2, up: redLevel2 },
+    Red3: {down: redLevel3, up: redLevel3 },
+    Pink: {down: pinkLevel, up: pinkLevel },
+    Pink1: {down: pinkLevel1, up: pinkLevel1 },
+    Pink2: {down: pinkLevel2, up: pinkLevel2 },
+    Pink3: {down: pinkLevel3, up: pinkLevel3 }
+},
+}

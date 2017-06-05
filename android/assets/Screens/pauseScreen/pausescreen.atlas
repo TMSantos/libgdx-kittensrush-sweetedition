@@ -1,0 +1,103 @@
+
+pausescreen.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+soundOffClick
+  rotate: false
+  xy: 1, 1355
+  size: 856, 193
+  orig: 856, 193
+  offset: 0, 0
+  index: -1
+soundOnClick
+  rotate: false
+  xy: 1, 1160
+  size: 856, 193
+  orig: 856, 193
+  offset: 0, 0
+  index: -1
+musicOff
+  rotate: false
+  xy: 859, 1355
+  size: 855, 193
+  orig: 855, 193
+  offset: 0, 0
+  index: -1
+musicOn
+  rotate: false
+  xy: 1, 965
+  size: 855, 193
+  orig: 855, 193
+  offset: 0, 0
+  index: -1
+soundOff
+  rotate: false
+  xy: 859, 1160
+  size: 855, 193
+  orig: 855, 193
+  offset: 0, 0
+  index: -1
+soundOn
+  rotate: false
+  xy: 1, 770
+  size: 855, 193
+  orig: 855, 193
+  offset: 0, 0
+  index: -1
+musicOffClick
+  rotate: false
+  xy: 858, 966
+  size: 855, 192
+  orig: 855, 192
+  offset: 0, 0
+  index: -1
+musicOnClick
+  rotate: false
+  xy: 1, 576
+  size: 855, 192
+  orig: 855, 192
+  offset: 0, 0
+  index: -1
+resumeClick
+  rotate: false
+  xy: 858, 787
+  size: 780, 177
+  orig: 780, 177
+  offset: 0, 0
+  index: -1
+resume
+  rotate: false
+  xy: 1, 398
+  size: 779, 176
+  orig: 779, 176
+  offset: 0, 0
+  index: -1
+exitClick
+  rotate: false
+  xy: 858, 654
+  size: 543, 131
+  orig: 543, 131
+  offset: 0, 0
+  index: -1
+menu
+  rotate: false
+  xy: 1, 265
+  size: 543, 131
+  orig: 543, 131
+  offset: 0, 0
+  index: -1
+exit
+  rotate: false
+  xy: 1, 133
+  size: 543, 130
+  orig: 543, 130
+  offset: 0, 0
+  index: -1
+menuClick
+  rotate: false
+  xy: 1, 1
+  size: 542, 130
+  orig: 542, 130
+  offset: 0, 0
+  index: -1

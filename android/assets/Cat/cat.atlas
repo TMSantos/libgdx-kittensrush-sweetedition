@@ -1,0 +1,68 @@
+
+cat.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+superfatcat
+  rotate: false
+  xy: 1, 755
+  size: 1026, 1032
+  orig: 1026, 1032
+  offset: 0, 0
+  index: -1
+fat6
+  rotate: false
+  xy: 1, 381
+  size: 369, 372
+  orig: 369, 372
+  offset: 0, 0
+  index: -1
+fat5
+  rotate: false
+  xy: 1029, 1499
+  size: 286, 288
+  orig: 286, 288
+  offset: 0, 0
+  index: -1
+fat4
+  rotate: false
+  xy: 1, 149
+  size: 229, 230
+  orig: 229, 230
+  offset: 0, 0
+  index: -1
+fat3
+  rotate: false
+  xy: 372, 567
+  size: 184, 186
+  orig: 184, 186
+  offset: 0, 0
+  index: -1
+fat2
+  rotate: false
+  xy: 1029, 1329
+  size: 166, 168
+  orig: 166, 168
+  offset: 0, 0
+  index: -1
+fat1
+  rotate: false
+  xy: 1317, 1632
+  size: 146, 155
+  orig: 146, 155
+  offset: 0, 0
+  index: -1
+stand2
+  rotate: false
+  xy: 1, 1
+  size: 140, 146
+  orig: 140, 146
+  offset: 0, 0
+  index: -1
+stand1
+  rotate: false
+  xy: 232, 237
+  size: 130, 142
+  orig: 130, 142
+  offset: 0, 0
+  index: -1

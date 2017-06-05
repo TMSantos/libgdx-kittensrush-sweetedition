@@ -1,0 +1,10 @@
+{
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+	SoundOn: { down: soundOnClick, up: soundOn },
+	SoundOff: { down: soundOffClick, up: soundOff },
+	MusicOn: { down: musicOnClick, up: musicOn },
+    MusicOff: { down: musicOffClick, up: musicOff },
+	Resume: { down: resumeClick, up: resume },
+	Menu: { down: menuClick, up: menu }
+},
+}

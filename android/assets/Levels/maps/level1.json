@@ -1,0 +1,394 @@
+{
+  "class": "com.kittenrush.game.Game.Objects.MapData",
+  "level": "1",
+  "food": [
+    {
+      "objectType":"1",
+      "positionX": "5",
+      "positionY": "12",
+      "texture": "1"
+    },
+    {
+      "objectType":"1",
+      "positionX": "3",
+      "positionY": "24",
+      "texture": "2"
+    },
+    {
+      "objectType":"1",
+      "positionX": "8",
+      "positionY": "31",
+      "texture": "3"
+    },
+    {
+      "objectType":"1",
+      "positionX": "3",
+      "positionY": "37",
+      "texture": "4"
+    },
+    {
+      "objectType":"1",
+      "positionX": "8",
+      "positionY": "37",
+      "texture": "5"
+    },
+    {
+       "objectType":"0",
+       "positionX": "5",
+       "positionY": "42",
+       "texture": "0"
+    },
+    {
+      "objectType":"1",
+      "positionX": "7",
+      "positionY": "50",
+      "texture": "1"
+    },
+    {
+      "objectType":"1",
+      "positionX": "2",
+      "positionY": "72",
+      "texture": "2"
+    },
+    {
+      "objectType":"1",
+      "positionX": "8",
+      "positionY": "75",
+      "texture": "3"
+    },
+    {
+      "objectType":"1",
+      "positionX": "7",
+      "positionY": "85",
+      "texture": "4"
+    },
+    {
+      "objectType":"1",
+      "positionX": "5",
+      "positionY": "91",
+      "texture": "5"
+    },
+    {
+      "objectType":"1",
+      "positionX": "5.5",
+      "positionY": "97",
+      "texture": "1"
+    },
+    {
+      "objectType":"12",
+      "positionX": "3.5",
+      "positionY": "17.5",
+      "texture": "6"
+    },
+    {
+      "objectType":"12",
+      "positionX": "8.5",
+      "positionY": "24",
+      "texture": "7"
+    },
+    {
+      "objectType":"12",
+      "positionX": "2.5",
+      "positionY": "29.5",
+      "texture": "8"
+    },
+    {
+      "objectType":"12",
+      "positionX": "8",
+      "positionY": "39",
+      "texture": "6"
+    },
+    {
+       "objectType":"12",
+       "positionX": "3",
+       "positionY": "77",
+       "texture": "7"
+     },
+     {
+        "objectType":"12",
+        "positionX": "7.5",
+        "positionY": "81.5",
+        "texture": "8"
+     },
+     {
+         "objectType":"12",
+         "positionX": "5",
+         "positionY": "101.5",
+         "texture": "6"
+     }
+  ],
+  "platforms": [
+    {
+      "objectType": "10",
+      "positionX": "3",
+      "positionY": "8.5",
+      "width": "4.8",
+      "height": "2",
+      "texture": "2",
+      "flipX": "false",
+      "flipY": "false",
+      "objectName": "platform2"
+    },
+    {
+      "objectType": "10",
+      "positionX": "7.2",
+      "positionY": "14",
+      "width": "5",
+      "height": "1.76",
+      "texture": "1",
+      "flipX": "false",
+      "flipY": "false",
+      "objectName": "platform1"
+    },
+    {
+      "objectType": "10",
+      "positionX": "2.3",
+      "positionY": "22",
+      "width": "3.5",
+      "height": "1.29",
+      "texture": "3",
+      "flipX": "false",
+      "flipY": "false",
+      "objectName": "platform3"
+    },
+    {
+      "objectType": "10",
+      "positionX": "6",
+      "positionY": "25",
+      "width": "2.9",
+      "height": "1.1",
+      "texture": "1",
+      "flipX": "false",
+      "flipY": "false",
+      "objectName": "platform1"
+    },
+    {
+      "objectType": "4",
+      "positionX": "2.2",
+      "positionY": "35",
+      "width": "4.4",
+      "height": "1.3",
+      "texture": "4",
+      "flipX": "false",
+      "flipY": "false"
+    },
+    {
+      "objectType": "9",
+      "positionX": "1.6",
+      "positionY": "46.5",
+      "width": "2.1",
+      "height": "3",
+      "texture": "9",
+      "flipX": "false",
+      "flipY": "false"
+    },
+    {
+      "objectType": "9",
+      "positionX": "3.2",
+      "positionY": "46.5",
+      "width": "2.1",
+      "height": "3",
+      "texture": "10",
+      "flipX": "false",
+      "flipY": "false"
+    },
+    {
+      "objectType": "9",
+      "positionX": "4.62",
+      "positionY": "46.5",
+      "width": "2.1",
+      "height": "3",
+      "texture": "11",
+      "flipX": "false",
+      "flipY": "false"
+    },
+    {
+      "objectType": "9",
+      "positionX": "5.79",
+      "positionY": "46.1",
+      "width": "1.55",
+      "height": "2.1",
+      "texture": "12",
+      "flipX": "false",
+      "flipY": "false"
+    },
+    {
+      "objectType": "9",
+      "positionX": "6.9",
+      "positionY": "46.1",
+      "width": "1.77",
+      "height": "2.1",
+      "texture": "13",
+      "flipX": "false",
+      "flipY": "false"
+    },
+    {
+      "objectType": "9",
+      "positionX": "8.5",
+      "positionY": "46.2",
+      "width": "2.06",
+      "height": "2.4",
+      "texture": "14",
+      "flipX": "false",
+      "flipY": "false"
+    },
+    {
+      "objectType": "9",
+      "positionX": "1.6",
+      "positionY": "55",
+      "width": "2.1",
+      "height": "3",
+      "texture": "9",
+      "flipX": "false",
+      "flipY": "false"
+    },
+    {
+      "objectType": "9",
+      "positionX": "3.2",
+      "positionY": "55",
+      "width": "2.1",
+      "height": "3",
+      "texture": "10",
+      "flipX": "false",
+      "flipY": "false"
+    },
+    {
+      "objectType": "9",
+      "positionX": "4.52",
+      "positionY": "55",
+      "width": "2.1",
+      "height": "3",
+      "texture": "11",
+      "flipX": "false",
+      "flipY": "false"
+    },
+    {
+      "objectType": "9",
+      "positionX": "5.79",
+      "positionY": "54.6",
+      "width": "1.55",
+      "height": "2.1",
+      "texture": "12",
+      "flipX": "false",
+      "flipY": "false"
+    },
+    {
+      "objectType": "9",
+      "positionX": "6.9",
+      "positionY": "54.6",
+      "width": "1.77",
+      "height": "2.1",
+      "texture": "13",
+      "flipX": "false",
+      "flipY": "false"
+    },
+    {
+      "objectType": "9",
+      "positionX": "8.5",
+      "positionY": "54.7",
+      "width": "2.06",
+      "height": "2.4",
+      "texture": "14",
+      "flipX": "false",
+      "flipY": "false"
+    },
+    {
+      "objectType": "5",
+      "positionX": "2.8",
+      "positionY": "67",
+      "width": "4.4",
+      "height": "1.64",
+      "texture": "5",
+      "flipX": "false",
+      "flipY": "false"
+    },
+    {
+      "objectType": "5",
+      "positionX": "6.8",
+      "positionY": "72",
+      "width": "4.4",
+      "height": "1.64",
+      "texture": "5",
+      "flipX": "false",
+      "flipY": "false"
+    },
+    {
+      "objectType": "6",
+      "positionX": "9.1",
+      "positionY": "80",
+      "width": "1.07",
+      "height": "6",
+      "texture": "6",
+      "flipX": "false",
+      "flipY": "false"
+    },
+    {
+      "objectType": "6",
+      "positionX": "1",
+      "positionY": "90",
+      "width": "1.07",
+      "height": "6",
+      "texture": "6"
+    },
+    {
+      "objectType": "7",
+      "positionX": "4.5",
+      "positionY": "90",
+      "width": "2.8",
+      "height": "1.88",
+      "texture": "7",
+      "flipX": "false",
+      "flipY": "false"
+    },
+    {
+      "objectType": "7",
+      "positionX": "7.1",
+      "positionY": "90",
+      "width": "2.8",
+      "height": "1.88",
+      "texture": "8",
+      "flipX": "false",
+      "flipY": "false"
+    },
+    {
+      "objectType": "7",
+      "positionX": "2.5",
+      "positionY": "100",
+      "width": "2.8",
+      "height": "1.88",
+      "texture": "7",
+      "flipX": "false",
+      "flipY": "false"
+    },
+    {
+      "objectType": "7",
+      "positionX": "5.1",
+      "positionY": "100",
+      "width": "2.8",
+      "height": "1.88",
+      "texture": "8",
+      "flipX": "false",
+      "flipY": "false"
+    },
+    {
+      "objectType": "7",
+      "positionX": "5.5",
+      "positionY": "110",
+      "width": "2.8",
+      "height": "1.88",
+      "texture": "7",
+      "flipX": "false",
+      "flipY": "false"
+    },
+    {
+      "objectType": "7",
+      "positionX": "8.1",
+      "positionY": "110",
+      "width": "2.8",
+      "height": "1.88",
+      "texture": "8",
+      "flipX": "false",
+      "flipY": "false"
+    }
+  ]
+}

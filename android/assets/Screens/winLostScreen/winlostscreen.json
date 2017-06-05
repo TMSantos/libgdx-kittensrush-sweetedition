@@ -1,0 +1,12 @@
+{
+ com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+ 	Menu: { down: MenuClick, up: Menu },
+ 	NextLevel: { down: NextLvlClick, up: NextLvl },
+ 	Replay: { down: ReplayClick, up: Replay }
+ },
+ com.badlogic.gdx.scenes.scene2d.ui.Image: {
+ 	Win: { drawable: Win },
+ 	Lost: { drawable: Lost },
+ 	Star: { drawable: Star }
+ },
+ }

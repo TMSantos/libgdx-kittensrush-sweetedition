@@ -1,0 +1,124 @@
+
+platforms.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+platform1
+  rotate: false
+  xy: 1, 1671
+  size: 963, 334
+  orig: 963, 334
+  offset: 0, 0
+  index: -1
+platform2
+  rotate: false
+  xy: 1, 1296
+  size: 894, 373
+  orig: 894, 373
+  offset: 0, 0
+  index: -1
+spikeplatform
+  rotate: false
+  xy: 966, 1679
+  size: 873, 326
+  orig: 873, 326
+  offset: 0, 0
+  index: -1
+caramelplatform
+  rotate: false
+  xy: 1, 1056
+  size: 813, 238
+  orig: 813, 238
+  offset: 0, 0
+  index: -1
+caramelplatform2
+  rotate: false
+  xy: 1, 816
+  size: 813, 238
+  orig: 813, 238
+  offset: 0, 0
+  index: -1
+spikes
+  rotate: false
+  xy: 1, 671
+  size: 813, 143
+  orig: 813, 143
+  offset: 0, 0
+  index: -1
+cookiePlatform
+  rotate: false
+  xy: 1, 537
+  size: 986, 132
+  orig: 986, 132
+  offset: 0, 0
+  index: -1
+brokenplat1
+  rotate: false
+  xy: 1, 175
+  size: 256, 360
+  orig: 256, 360
+  offset: 0, 0
+  index: -1
+brokenplat2
+  rotate: false
+  xy: 259, 175
+  size: 256, 360
+  orig: 256, 360
+  offset: 0, 0
+  index: -1
+brokenplat3
+  rotate: false
+  xy: 517, 175
+  size: 256, 360
+  orig: 256, 360
+  offset: 0, 0
+  index: -1
+platform3
+  rotate: false
+  xy: 1, 9
+  size: 447, 164
+  orig: 447, 164
+  offset: 0, 0
+  index: -1
+brokenplat6
+  rotate: false
+  xy: 775, 246
+  size: 248, 289
+  orig: 248, 289
+  offset: 0, 0
+  index: -1
+brokenplat4
+  rotate: false
+  xy: 1841, 1753
+  size: 186, 252
+  orig: 186, 252
+  offset: 0, 0
+  index: -1
+cheeseplat
+  rotate: false
+  xy: 450, 1
+  size: 250, 172
+  orig: 250, 172
+  offset: 0, 0
+  index: -1
+brokenplat5
+  rotate: false
+  xy: 816, 1043
+  size: 213, 251
+  orig: 213, 251
+  offset: 0, 0
+  index: -1
+cheeseplat2
+  rotate: false
+  xy: 816, 869
+  size: 250, 172
+  orig: 250, 172
+  offset: 0, 0
+  index: -1
+caramel
+  rotate: false
+  xy: 816, 708
+  size: 162, 159
+  orig: 162, 159
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,47 @@
+
+hud.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+mapLimit
+  rotate: false
+  xy: 1, 1
+  size: 89, 1923
+  orig: 89, 1923
+  offset: 0, 0
+  index: -1
+cookie
+  rotate: false
+  xy: 92, 1466
+  size: 1200, 458
+  orig: 1200, 458
+  offset: 0, 0
+  index: -1
+kgCounter
+  rotate: false
+  xy: 92, 1253
+  size: 337, 211
+  orig: 337, 211
+  offset: 0, 0
+  index: -1
+pause
+  rotate: false
+  xy: 1294, 1770
+  size: 150, 154
+  orig: 150, 154
+  offset: 0, 0
+  index: -1
+starFull
+  rotate: false
+  xy: 92, 1136
+  size: 118, 115
+  orig: 118, 115
+  offset: 0, 0
+  index: -1
+starEmpty
+  rotate: false
+  xy: 431, 1350
+  size: 118, 114
+  orig: 118, 114
+  offset: 0, 0
+  index: -1

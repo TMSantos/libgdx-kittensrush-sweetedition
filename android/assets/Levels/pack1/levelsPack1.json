@@ -1,0 +1,102 @@
+{
+  "levels": [{
+        "class" : "com.kittenrush.game.Game.LevelInformation",
+  	    "level": "1",
+        "goal": "20",
+        "mapEnd": "106",
+        "cameraSpeed": "2",
+        "gravity":"2",
+        "catMaxSpeed":"2.5"
+    },
+	{
+	    "class" : "com.kittenrush.game.Game.LevelInformation",
+	    "level": "2",
+        "goal": "20",
+        "mapEnd": "180",
+        "cameraSpeed": "3",
+        "gravity":"2",
+        "catMaxSpeed":"3"
+  },
+   	{
+   	    "class" : "com.kittenrush.game.Game.LevelInformation",
+   	    "level": "3",
+        "goal": "20",
+        "mapEnd": "80",
+        "cameraSpeed": "3",
+        "gravity":"2",
+        "catMaxSpeed":"3"
+    },
+    {
+        "class" : "com.kittenrush.game.Game.LevelInformation",
+       	"level": "4",
+        "goal": "8",
+        "mapEnd": "100",
+        "cameraSpeed": "10",
+        "gravity":"20",
+        "catMaxSpeed":"20"
+    },
+    {
+        "class" : "com.kittenrush.game.Game.LevelInformation",
+        "level": "5",
+        "goal": "24",
+        "mapEnd": "100",
+        "cameraSpeed": "3",
+        "gravity":"2",
+        "catMaxSpeed":"3"
+     },
+    {
+         "class" : "com.kittenrush.game.Game.LevelInformation",
+         "level": "6",
+         "goal": "2",
+         "mapEnd": "100",
+         "cameraSpeed": "3",
+         "gravity":"2",
+         "catMaxSpeed":"3"
+    },
+    {
+         "class" : "com.kittenrush.game.Game.LevelInformation",
+         "level": "7",
+         "goal": "50",
+         "mapEnd": "150",
+         "cameraSpeed": "10",
+         "gravity":"30",
+         "catMaxSpeed":"30"
+    },
+    {
+         "class" : "com.kittenrush.game.Game.LevelInformation",
+         "level": "8",
+         "goal": "26",
+         "mapEnd": "150",
+         "cameraSpeed": "3",
+         "gravity":"2",
+         "catMaxSpeed":"3"
+    },
+    {
+         "class" : "com.kittenrush.game.Game.LevelInformation",
+         "level": "9",
+         "goal": "8",
+         "mapEnd": "150",
+         "cameraSpeed": "8",
+         "gravity":"8",
+         "catMaxSpeed":"8"
+    },
+    {
+         "class" : "com.kittenrush.game.Game.LevelInformation",
+         "level": "10",
+         "goal": "30",
+         "mapEnd": "150",
+         "cameraSpeed": "5",
+         "gravity":"5",
+         "catMaxSpeed":"5"
+    },
+    {
+         "class" : "com.kittenrush.game.Game.LevelInformation",
+         "level": 11,
+         "goal": "30",
+         "mapEnd": "150",
+         "cameraSpeed": "30",
+         "gravity":"30",
+         "catMaxSpeed":"30"
+    }]
+  
+}

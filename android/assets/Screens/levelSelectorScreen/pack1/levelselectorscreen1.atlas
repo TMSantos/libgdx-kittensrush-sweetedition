@@ -1,0 +1,152 @@
+
+levelselectorscreen1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+options
+  rotate: false
+  xy: 1, 795
+  size: 523, 193
+  orig: 523, 193
+  offset: 0, 0
+  index: -1
+optionsClick
+  rotate: false
+  xy: 1, 600
+  size: 523, 193
+  orig: 523, 193
+  offset: 0, 0
+  index: -1
+menu
+  rotate: false
+  xy: 526, 795
+  size: 375, 193
+  orig: 375, 193
+  offset: 0, 0
+  index: -1
+menuClick
+  rotate: false
+  xy: 1, 405
+  size: 375, 193
+  orig: 375, 193
+  offset: 0, 0
+  index: -1
+leftArrow
+  rotate: false
+  xy: 1, 181
+  size: 225, 222
+  orig: 225, 222
+  offset: 0, 0
+  index: -1
+leftArrowClick
+  rotate: false
+  xy: 526, 571
+  size: 225, 222
+  orig: 225, 222
+  offset: 0, 0
+  index: -1
+rigthArrow
+  rotate: false
+  xy: 228, 181
+  size: 225, 222
+  orig: 225, 222
+  offset: 0, 0
+  index: -1
+rigthArrowClick
+  rotate: false
+  xy: 753, 571
+  size: 225, 222
+  orig: 225, 222
+  offset: 0, 0
+  index: -1
+yellowLevel2
+  rotate: false
+  xy: 1, 37
+  size: 175, 142
+  orig: 175, 142
+  offset: 0, 0
+  index: -1
+yellowLevel3
+  rotate: false
+  xy: 178, 37
+  size: 175, 142
+  orig: 175, 142
+  offset: 0, 0
+  index: -1
+catSelector
+  rotate: false
+  xy: 378, 453
+  size: 131, 145
+  orig: 131, 145
+  offset: 0, 0
+  index: -1
+redLevel1
+  rotate: false
+  xy: 511, 441
+  size: 175, 128
+  orig: 175, 128
+  offset: 0, 0
+  index: -1
+redLevel2
+  rotate: false
+  xy: 688, 428
+  size: 175, 141
+  orig: 175, 141
+  offset: 0, 0
+  index: -1
+redLevel3
+  rotate: false
+  xy: 355, 38
+  size: 175, 141
+  orig: 175, 141
+  offset: 0, 0
+  index: -1
+yellowLevel1
+  rotate: false
+  xy: 455, 310
+  size: 175, 129
+  orig: 175, 129
+  offset: 0, 0
+  index: -1
+pinkLevel3
+  rotate: false
+  xy: 455, 181
+  size: 167, 127
+  orig: 167, 127
+  offset: 0, 0
+  index: -1
+pinkLevel2
+  rotate: false
+  xy: 632, 299
+  size: 164, 127
+  orig: 164, 127
+  offset: 0, 0
+  index: -1
+pinkLevel1
+  rotate: false
+  xy: 624, 183
+  size: 164, 114
+  orig: 164, 114
+  offset: 0, 0
+  index: -1
+pinkLevel
+  rotate: false
+  xy: 865, 496
+  size: 154, 73
+  orig: 154, 73
+  offset: 0, 0
+  index: -1
+redLevel
+  rotate: false
+  xy: 532, 91
+  size: 175, 88
+  orig: 175, 88
+  offset: 0, 0
+  index: -1
+yellowLevel
+  rotate: false
+  xy: 532, 1
+  size: 175, 88
+  orig: 175, 88
+  offset: 0, 0
+  index: -1

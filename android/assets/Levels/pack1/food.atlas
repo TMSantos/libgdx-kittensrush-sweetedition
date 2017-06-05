@@ -1,0 +1,75 @@
+
+food.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+supercake
+  rotate: false
+  xy: 1, 497
+  size: 478, 471
+  orig: 478, 471
+  offset: 0, 0
+  index: -1
+cake2
+  rotate: false
+  xy: 1, 198
+  size: 301, 297
+  orig: 301, 297
+  offset: 0, 0
+  index: -1
+cake4
+  rotate: false
+  xy: 481, 671
+  size: 301, 297
+  orig: 301, 297
+  offset: 0, 0
+  index: -1
+cake5
+  rotate: false
+  xy: 784, 671
+  size: 301, 297
+  orig: 301, 297
+  offset: 0, 0
+  index: -1
+vegetable2
+  rotate: false
+  xy: 1087, 671
+  size: 301, 297
+  orig: 301, 297
+  offset: 0, 0
+  index: -1
+cake1
+  rotate: false
+  xy: 1390, 672
+  size: 301, 296
+  orig: 301, 296
+  offset: 0, 0
+  index: -1
+cake3
+  rotate: false
+  xy: 1693, 672
+  size: 301, 296
+  orig: 301, 296
+  offset: 0, 0
+  index: -1
+vegetable1
+  rotate: false
+  xy: 481, 373
+  size: 301, 296
+  orig: 301, 296
+  offset: 0, 0
+  index: -1
+vegetable3
+  rotate: false
+  xy: 784, 373
+  size: 301, 296
+  orig: 301, 296
+  offset: 0, 0
+  index: -1
+initialcake
+  rotate: false
+  xy: 1, 1
+  size: 233, 195
+  orig: 233, 195
+  offset: 0, 0
+  index: -1
